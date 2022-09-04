@@ -1,0 +1,10 @@
+body {
+  background-color: #0d0d0d;
+}
+button:hover {
+  cursor: pointer;
+  background-color: rgb(175, 175, 175);
+}
+button:active {
+  background-color: rgb(148, 148, 148);
+}
